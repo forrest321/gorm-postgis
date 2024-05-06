@@ -1,3 +1,4 @@
+# ⚠️ 🚫 The POSTGIS elements have not yet been implemented. 
 # GORM PostgreSQL Driver
 
 ## Quick Start
